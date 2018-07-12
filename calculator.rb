@@ -9,6 +9,12 @@ def subtract(int1,int2)
   int1 - int2
 end
   
+#define a method "multiply" that will take 2 integers as arguments and return the product
+def multiply(int1,int2)
+  int1 * int2
+end
+
+#define a method "divide" that will take 2 integers as arguments and return the quotient
   # Main body. Ask user to input ex. "1 + 3" or "3 - 1" and call the correct method based on input to return desired result.
   
 loop do
